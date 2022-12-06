@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco "Best School" > \\\\\\\ \'\"Best\ School\"\\\'\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)'
+export Best = School
