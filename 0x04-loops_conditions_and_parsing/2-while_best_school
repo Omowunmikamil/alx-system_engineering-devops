@@ -2,8 +2,8 @@
 #displays Best School 10 times, using while loop
 
 i = 0
-while (i < 10):
+while ($i -lt 10):
 do
-	print("Best SChool")
-	i++
+	echo "Best SChool"
+	((i++))
 done
