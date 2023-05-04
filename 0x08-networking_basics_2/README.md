@@ -1,5 +1,5 @@
-				0x08. Networking basics #1
-			DevOps		Network		SysAdmin
+			0x08. Networking basics #1
+		DevOps		Network		SysAdmin
 
 ![s7kpNYq](https://user-images.githubusercontent.com/109985883/236332799-255cb481-0bf5-4978-abce-1a3e35917998.png)
 
@@ -17,7 +17,7 @@ man or help:
 * nc
 * cut
 
-	Learning Objectives ->
+Learning Objectives ->
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -27,7 +27,7 @@ General
 - What is /etc/hosts
 - How to display your machine’s active network interfaces
 
-	Requirements ->
+Requirements ->
 
 General
 * Allowed editors: vi, vim, emacs
