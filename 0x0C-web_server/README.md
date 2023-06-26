@@ -44,7 +44,8 @@ As you can tell, I am not using Emacs to perform the task in my answer file. Thi
 - [Web server](https://www.techtarget.com/whatis/definition/Web-server)
 - [What is a Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 
->>
-to run puppet file:
->> ``sudo puppet apply filename.pp``
->> ``sudo puppet apply 7-puppet_install_nginx_web_server.pp``
+## to run puppet file:
+```
+$ sudo puppet apply filename.pp
+$ sudo puppet apply 7-puppet_install_nginx_web_server.pp
+```
