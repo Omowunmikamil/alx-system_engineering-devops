@@ -29,19 +29,21 @@ sylvain@ubuntu
 
 As you can tell, I am not using emacs to perform the task in my answer file. This exercise is aiming at training you on automating your work. If you can automate tasks that you do manually, you can then automate yourself out of repetitive tasks and focus your energy on something more interesting. For an SRE, that comes very handy when there are hundreds or thousands of servers to manage, the work cannot be only done manually. Note that the checker will execute your script as the root user, you do not need to use the sudo command (if using sandbox).
 
-## A good Software Engineer is a [lazy Software Engineer](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb).
+** A good Software Engineer is a [lazy Software Engineer](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb). **
 
->>Tips: to test your answer Bash script, feel free to reproduce the checker environment:
+![82VsYEC](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/8fc523b7-65f7-4a4f-a415-b277feed9a33)
+
+#### Tips: to test your answer Bash script, feel free to reproduce the checker environment:
 
 - start a Ubuntu 16.04 sandbox
 - run your script on it
 - see how it behaves
 
->>**Read:**
+**Read:**
 	- [Wikipedia page about web server](https://en.wikipedia.org/wiki/Web_server)
 	- [Web server](https://www.techtarget.com/whatis/definition/Web-server)
 	- [What is a Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 
->>RUN To Puppet file 
+>>
 to run puppet file: ``sudo puppet apply filename.pp``
 to run puppet file: ``sudo puppet apply 7-puppet_install_nginx_web_server.pp``
