@@ -8,8 +8,8 @@
 # GSSAPIDelegateCredentials no
 # IdentityFile ~/.ssh/school
 # PasswordAuthentication no
+# OR
 
-OR
 Host 35.175.65.30
 IdentityFile ~/.ssh/school
 PasswordAuthentication no
