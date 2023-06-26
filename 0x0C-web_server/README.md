@@ -1,6 +1,7 @@
 # 0x0C. Web server
 
-## <p align="center">![alt text](https://github.com/Omowunmijuin/alx-system_engineering-devops/blob/main/image_devops/Web_server.png?raw=true)</p>
+## <p align="center">
+![8Gu52Qv](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/073067ee-a5d5-4813-b820-7fe465c84bfb)</p>
 
 **Web Server:**
 Do not mix up a web server and server.
@@ -47,5 +48,4 @@ As you can tell, I am not using Emacs to perform the task in my answer file. Thi
 >>
 to run puppet file:
 >> ``sudo puppet apply filename.pp``
-to run puppet file:
 >> ``sudo puppet apply 7-puppet_install_nginx_web_server.pp``
