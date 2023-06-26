@@ -17,7 +17,7 @@ In this project, some of the tasks will be graded on 2 aspects:
 1. Is your web-01 server configured according to the requirements
 2. Does your answer file contain a Bash script that automatically performs commands to configure an Ubuntu machine to fit requirements (meaning without any human intervention)
 
-###But my answer file would contain:
+## But my answer file would contain:
 ```
 sylvain@ubuntu cat 88-script_example
 #!/usr/bin/env bash
