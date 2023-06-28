@@ -10,7 +10,7 @@ In this debugging series, broken/bugged webstacks will be given to you, the fina
 
 Let’s start with a very simple example. My server must:
 
-1. have a copy of the <p style= "color: red">/etc/passwd</p> file in <p style= "color: red">/tmp</p>
+1. have a copy of the <i>/etc/passwd</i> file in <i>/tmp</i>
 2. have a file named <p style= "color: red">/tmp/isworking</p> containing the string <p style= "color: red">OK</p>
 
 Let’s pretend that without these 2 elements, my web application cannot work.
