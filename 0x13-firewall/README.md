@@ -1,6 +1,7 @@
 # 0x13 Firewall
 
-## <p align="center"> </p>
+## <p align="center">![V1HjQ1Y](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/27a7d66b-c741-4bd3-b02d-26214302c8d5)
+ </p>
 
 ### Resources
 **Read or watch:**
