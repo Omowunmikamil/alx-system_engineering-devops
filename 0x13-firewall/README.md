@@ -3,6 +3,12 @@
 ## <p align="center">![V1HjQ1Y](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/27a7d66b-c741-4bd3-b02d-26214302c8d5)
  </p>
 
+ # Background Context
+ ## Your servers without a firewall…
+
+ ## <p justify-content="left"> ![holbertonschool-firewall](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/07f4b67d-dc65-4a55-8459-7e7bdbb7a17a) </p>
+
+
 ### Resources
 **Read or watch:**
 - [What is a firewall](https://en.wikipedia.org/wiki/Firewall_%28computing%29)
