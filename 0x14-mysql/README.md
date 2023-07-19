@@ -1,6 +1,6 @@
 # 0x14. MySQL
+![KkrkDHT](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/44a1b558-91f4-471b-81cc-34766ac4d50d)
 
-<p align="center">![KkrkDHT](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/fbceb9d5-975a-4be9-9505-afffc077131d)</p>
 
 ## General Objectives
 - To know the main role of a database
