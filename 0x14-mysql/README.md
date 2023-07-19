@@ -1,5 +1,5 @@
 # 0x14. MySQL
-<p align="center">![KkrkDHT](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/44a1b558-91f4-471b-81cc-34766ac4d50d)</p>
+![KkrkDHT](https://github.com/Omowunmijuin/alx-system_engineering-devops/assets/109985883/44a1b558-91f4-471b-81cc-34766ac4d50d)
 
 
 ## General Objectives
