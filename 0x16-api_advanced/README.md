@@ -4,7 +4,7 @@
 ## Background Context
 Questions involving APIs are common for interviews. Sometimes they’re as simple as ‘write a Python script that queries a given endpoint’, sometimes they require you to use recursive functions and format/sort the results.
 
-A great API to use for some practice is the Reddit API. There’s a lot of endpoints available, many that don’t require any form of authentication, and there’s tons of information to be parsed out and presented. Getting comfortable with API calls now can save you some face during technical interviews and even outside of the job market, you might find personal use cases to make your life a little bit easier.
+A great API to use for some practice is the Reddit API. Many endpoints are available, many that don’t require any form of authentication and tons of information to be parsed out and presented. Getting comfortable with API calls now can save you some face during technical interviews and even outside of the job market, you might find personal use cases to make your life a little bit easier.
 
 ## Learning Objectives
 - To know how to read API documentation to find the endpoints you’re looking for
@@ -33,7 +33,6 @@ A great API to use for some practice is the Reddit API. There’s a lot of endpo
 
 | Files | Description                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------- |
-| 0-subs.py              | Function that returns number of subreddit subscribers                           |
-| 1-top_ten.py           | Function that prints top 10 hot gist of a subreddit                             |
-| 2-recurse.py           | Function that recursively return a list of available hot 10 gist of a subreddit |
-	|
+| 0-subs.py              | Function that returns the number of subreddit subscribers                           |
+| 1-top_ten.py           | Function that prints the top 10 hot gists of a subreddit                             |
+| 2-recurse.py           | Function that recursively returns a list of available hot 10 lists of a subreddit |
