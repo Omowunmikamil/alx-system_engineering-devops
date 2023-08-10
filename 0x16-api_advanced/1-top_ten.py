@@ -10,10 +10,8 @@ def top_ten(subreddit):
     """Function that returns the numbers of
     subscribers of a subreddit passed to it"""
 
-    header = {"User-Agent" : "Mozilla/5.0"}
-    url = "https://www.reddit.com/r/{}/hot.json".format(subreddit)
-    query_string = {"limit" : 10}
-
+    header = {"User-Agent": "Mozilla/5.0"}
+    url = "https://www.reddit.com/r/{}/hot.json?limit=10".format(subreddit)
     get_api = requst.get(url, headers=header, allow_redirects=False)
 
     if get_api.status.code == 200:
