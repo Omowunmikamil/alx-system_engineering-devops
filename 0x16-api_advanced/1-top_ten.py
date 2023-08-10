@@ -24,4 +24,4 @@ def top_ten(subreddit):
             print(top)
     else:
         print(None)
-        return 0
+    return 0
