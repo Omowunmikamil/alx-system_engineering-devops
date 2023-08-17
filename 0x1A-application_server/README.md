@@ -2,7 +2,7 @@
 
 ## Background Context![c7d1ed0a2e10d1b4e9b3](https://github.com/Omowunmikamil/alx-system_engineering-devops/assets/109985883/c5ef9c38-937c-4ba8-a9ad-c83e70d7d1b5)
 
-Your web infrastructure is already serving web pages via Nginx that you installed in your [first web stack project] (https://github.com/Omowunmikamil/alx-system_engineering-devops/tree/3f9507c7fb55bccfc10f99f25243ac1c8d7aac9f/0x0C-web_server). While a web server can also serve dynamic content, this task is usually given to an application server. In this project, you will add this piece to your infrastructure, plug it into your Nginx and make serve your Airbnb clone project.
+Your web infrastructure is already serving web pages via Nginx that you installed in your (first web stack project) [https://github.com/Omowunmikamil/alx-system_engineering-devops/tree/3f9507c7fb55bccfc10f99f25243ac1c8d7aac9f/0x0C-web_server]. While a web server can also serve dynamic content, this task is usually given to an application server. In this project, you will add this piece to your infrastructure, plug it into your Nginx and make serve your Airbnb clone project.
 
 >>REQUIREMENTS
 0. A README.md file, at the root of the folder of the project, is mandatory
